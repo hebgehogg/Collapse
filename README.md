@@ -87,7 +87,6 @@ The game plans to introduce the ability to select a map for the gaming and add d
 | Hero's life size № 1 | 600 hp | none |
 | The size of damage from a knife | 100 hp | none |
 | The amount of damage from the gun (in the torso) | 150 hp | From 1 bullet |
-
 | The amount of damage from hitting the head with any type of weapon | 600 hp | none |
 | The amount of damage from the machine | 60 hp | From 1 bullet |
 | The amount of damage in the case of hand-to-hand combat | 60 hp | From a single hit |
