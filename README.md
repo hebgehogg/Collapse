@@ -60,7 +60,7 @@ In the main menu, the player can select the game mode and customize the game. Th
 
 Also user can use tab-weapon for purchase weapon and armor.
 Gameplay map
-> Карта игрового процесса не полная  
+> Карта игрового процесса не полная:  
 
 https://miro.com/welcomeonboard/jSHGMntPnbDQDv1Ira0hcPupsQvQ6PWOADDAqECzgSdOb2rdt3dznseNHjWowqst
 
