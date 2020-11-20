@@ -35,7 +35,9 @@ Goal: 10 won round
 
 
 ## Mood
-See information about mood by this link: https://miro.com/app/board/o9J_kkCb3cI=/?moveToWidget=3074457350601321897&cot=12  
+See information about mood by this link:  
+https://miro.com/app/board/o9J_kkCb3cI=/?moveToWidget=3074457350601321897&cot=12  
+
 ### Targeted audience  
 * Age: The average age of players is between 12 and 25, because the game involves the development of cybersport disciplines.
 * Gender: 50/50.
@@ -58,7 +60,8 @@ In the main menu, the player can select the game mode and customize the game. Th
 
 Also user can use tab-weapon for purchase weapon and armor.
 Gameplay map
-> Карта игрового процесса не полная   
+> Карта игрового процесса не полная  
+
 https://miro.com/welcomeonboard/jSHGMntPnbDQDv1Ira0hcPupsQvQ6PWOADDAqECzgSdOb2rdt3dznseNHjWowqst
 
 
