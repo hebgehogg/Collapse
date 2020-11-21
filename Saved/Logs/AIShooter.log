@@ -1577,3 +1577,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.21-11.51.47:445][961]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2020.11.21-11.52.06:382][169]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2020.11.21-11.52.06:382][169]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.21-12.04.50:257][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.21-12.05.49:287][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.11.21-12.05.49:454][735]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/Collapse/Saved/FirstPersonExampleMap_Auto1AA4C08E2413EFC093BA2158AEEA44EBD.tmp' to 'C:/Users/hebgehog/Documents/GitHub/Collapse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.11.21-12.05.49:503][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.287
+[2020.11.21-12.05.49:503][735]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.287
