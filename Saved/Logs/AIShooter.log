@@ -3172,3 +3172,147 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.19-21.56.30:771][528]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3F5F0BC00), frame # 113528
 [2020.12.19-21.56.30:773][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
 [2020.12.19-21.56.30:829][529]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.12.19-21.59.15:729][129]LogSlate: Window 'Message' being destroyed
+[2020.12.19-21.59.15:733][129]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Maps/Objects/Submesh_1429_Store_17_7thSlum.Submesh_1429_Store_17_7thSlum
+(Selecting 'No' will cause all changes to be lost!)
+[2020.12.19-21.59.18:163][129]LogMaterial: Display: Missing cached shader map for material Submesh_1429_Store_17_7thSlum, compiling. 
+[2020.12.19-21.59.18:196][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.12.19-21.59.18:196][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.12.19-21.59.18:196][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.12.19-21.59.18:196][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.19-21.59.18:323][129]LogMaterial: Display: Missing cached shader map for material Submesh_1429_Store_17_7thSlum, compiling. 
+[2020.12.19-21.59.18:402][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.12.19-21.59.18:418][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.19-21.59.19:543][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.12.19-21.59.19:543][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.12.19-21.59.19:543][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.12.19-21.59.19:543][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2020.12.19-21.59.20:103][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.12.19-21.59.20:103][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.12.19-21.59.20:662][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.12.19-21.59.20:662][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.12.19-21.59.21:113][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.12.19-21.59.21:113][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.19-21.59.21:113][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.12.19-21.59.21:113][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.12.19-21.59.21:113][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.19-21.59.21:120][129]TextureStreamingBuild: Display: Compiling optional shaders took 2.707 seconds.
+[2020.12.19-21.59.21:139][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.12.19-21.59.23:091][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.19-21.59.23:857][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.19-21.59.24:169][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.19-21.59.24:801][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.19-22.09.18:011][129]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1e74a5b6-2a1a-4472-89f8-dc6252525ba5}.
+[2020.12.19-22.09.45:641][129]LogSlate: Window 'Message' being destroyed
+[2020.12.19-22.09.45:647][129]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Maps/Objects/Submesh_1430_Store_17_7thSlum.Submesh_1430_Store_17_7thSlum
+(Selecting 'No' will cause all changes to be lost!)
+[2020.12.19-22.09.46:301][129]LogMaterial: Display: Missing cached shader map for material Submesh_1430_Store_17_7thSlum, compiling. 
+[2020.12.19-22.09.46:374][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.12.19-22.09.46:374][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.12.19-22.09.46:374][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.12.19-22.09.46:374][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.19-22.09.46:451][129]LogMaterial: Display: Missing cached shader map for material Submesh_1430_Store_17_7thSlum, compiling. 
+[2020.12.19-22.09.46:537][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.19-22.09.46:546][129]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.19-22.09.47:667][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.12.19-22.09.47:667][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.12.19-22.09.47:667][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.12.19-22.09.47:667][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2020.12.19-22.09.48:225][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.12.19-22.09.48:225][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.12.19-22.09.48:784][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.12.19-22.09.48:784][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.12.19-22.09.48:784][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.12.19-22.09.48:784][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.19-22.09.49:083][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.12.19-22.09.49:083][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.12.19-22.09.49:083][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.19-22.09.49:088][129]TextureStreamingBuild: Display: Compiling optional shaders took 2.548 seconds.
+[2020.12.19-22.09.49:144][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.12.19-22.09.49:588][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.12.19-22.09.51:294][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.19-22.09.51:677][129]LogSlate: Window 'Save Content' being destroyed
+[2020.12.19-22.09.51:761][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-22.09.51:779][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.19-22.09.51:919][129]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/Collapse/Saved/NewMap1217BB684D073D11E99FD99845E5BCC2.tmp' to 'C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/NewMap.umap'
+[2020.12.19-22.09.52:016][129]LogFileHelpers: Saving map 'NewMap' took 0.255
+[2020.12.19-22.09.52:016][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2020.12.19-22.09.52:145][129]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/Collapse/Saved/NewMap_BuiltData9EBC8FEE4C1E19BBF4F4A98FF57C18C8.tmp' to 'C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/NewMap_BuiltData.uasset'
+[2020.12.19-22.09.52:251][129]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.19-22.09.52:274][129]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/Collapse/Saved/eatery_5_Submesh_1431_Store_17_7FCCC8AFA461CC7881B12FB858D5E419D.tmp' to 'C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/Objects/eatery_5_Submesh_1431_Store_17_7thSlum.uasset'
+[2020.12.19-22.09.52:426][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Objects/Submesh_1429_Store_17_7thSlum" FILE="C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/Objects/Submesh_1429_Store_17_7thSlum.uasset" SILENT=true
+[2020.12.19-22.09.52:510][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.19-22.09.52:510][129]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/Collapse/Saved/Submesh_1429_Store_17_7thSlumEE325192414AD63A72775C92A4B0E159.tmp' to 'C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/Objects/Submesh_1429_Store_17_7thSlum.uasset'
+[2020.12.19-22.09.53:074][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.19-22.09.53:689][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Objects/Submesh_1430_Store_17_7thSlum" FILE="C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/Objects/Submesh_1430_Store_17_7thSlum.uasset" SILENT=true
+[2020.12.19-22.09.53:729][129]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/Collapse/Saved/Submesh_1430_Store_17_7thSlum5A317B5049F0740A48CB53BC412090B2.tmp' to 'C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/Objects/Submesh_1430_Store_17_7thSlum.uasset'
+[2020.12.19-22.09.53:731][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Objects/Submesh_1431_Store_17_7thSlum" FILE="C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/Objects/Submesh_1431_Store_17_7thSlum.uasset" SILENT=true
+[2020.12.19-22.09.53:745][129]LogSavePackage: Moving 'C:/Users/hebgehog/Documents/GitHub/Collapse/Saved/Submesh_1431_Store_17_7thSlum703B571A44A9B74757BA288E0A159583.tmp' to 'C:/Users/hebgehog/Documents/GitHub/Collapse/Content/Maps/Objects/Submesh_1431_Store_17_7thSlum.uasset'
+[2020.12.19-22.09.54:338][129]LogTemp: Resetting audio stream to device id 
+[2020.12.19-22.09.54:366][129]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-22.09.54:366][129]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-22.09.54:495][129]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-22.09.54:495][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-22.09.54:731][129]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-22.09.54:732][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-22.09.55:399][129]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-22.09.55:399][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-22.09.55:906][129]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-22.09.55:906][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-22.09.56:081][129]LogSlate: Window 'AIShooter - Unreal Editor' being destroyed
+[2020.12.19-22.09.56:082][129]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-22.09.57:273][129]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-22.09.57:273][129]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2020.12.19-22.09.57:273][129]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2020.12.19-22.09.57:274][129]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Objects/eatery_5_Submesh_1431_Store_17_7thSlum.eatery_5_Submesh_1431_Store_17_7thSlum
+[2020.12.19-22.09.57:274][129]LogContentValidation: Display: Validating Material /Game/Maps/Objects/Submesh_1429_Store_17_7thSlum.Submesh_1429_Store_17_7thSlum
+[2020.12.19-22.09.57:274][129]LogContentValidation: Display: Validating Material /Game/Maps/Objects/Submesh_1430_Store_17_7thSlum.Submesh_1430_Store_17_7thSlum
+[2020.12.19-22.09.57:274][129]LogContentValidation: Display: Validating Material /Game/Maps/Objects/Submesh_1431_Store_17_7thSlum.Submesh_1431_Store_17_7thSlum
+[2020.12.19-22.09.57:292][130]Cmd: QUIT_EDITOR
+[2020.12.19-22.09.57:304][130]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.12.19-22.09.57:400][130]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.12.19-22.09.58:779][130]LogExit: Preparing to exit.
+[2020.12.19-22.10.00:316][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:316][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:316][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:316][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:316][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:316][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:316][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:316][130]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.19-22.10.00:317][130]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-22.10.00:663][130]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.19-22.10.00:670][130]LogExit: Transaction tracking system shut down
+[2020.12.19-22.10.01:006][130]LogExit: Editor shut down
+[2020.12.19-22.10.04:876][130]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001C316C5EF80), frame # 114130
+[2020.12.19-22.10.04:876][130]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C316C20F40), frame # 114130
+[2020.12.19-22.10.05:727][130]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C316C88A00), frame # 114130
+[2020.12.19-22.10.08:157][130]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C322413E00), frame # 114130
+[2020.12.19-22.10.08:157][130]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C30C0AC540), frame # 114130
+[2020.12.19-22.10.10:769][130]LogExit: Object subsystem successfully closed.
+[2020.12.19-22.10.11:230][130]LogShaderCompilers: Display: Shaders left to compile 0
