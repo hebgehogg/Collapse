@@ -1,0 +1,1578 @@
+﻿Log file open, 12/25/20 23:07:20
+LogInit: Display: Running engine for game: AIShooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.566781
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Engine.ini]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Engine.ini]
+[2020.12.25-20.07.22:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Engine.ini]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Engine.ini]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.25-20.07.22:079][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Engine.ini]
+[2020.12.25-20.07.22:079][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Engine.ini]
+[2020.12.25-20.07.22:084][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.25-20.07.22:084][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.25-20.07.22:085][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.25-20.07.22:086][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.25-20.07.22:086][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.25-20.07.22:086][  0]LogHAL: Display: Platform has ~ 8 GB [8419069952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.25-20.07.22:086][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.25-20.07.22:086][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.25-20.07.22:086][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:086][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.25-20.07.22:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.25-20.07.22:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Scalability.ini]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.25-20.07.22:089][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.25-20.07.22:090][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.25-20.07.22:090][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.25-20.07.22:090][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.25-20.07.22:090][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/roman/UnrealProjects/Collapse/Saved/Config/Windows/Engine.ini]
+[2020.12.25-20.07.22:092][  0]LogInit: Computer: DESKTOP-GE6EI2B
+[2020.12.25-20.07.22:092][  0]LogInit: User: roman
+[2020.12.25-20.07.22:092][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.25-20.07.22:092][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.25-20.07.22:092][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.12.25-20.07.22:092][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.25-20.07.22:092][  0]LogMemory: Process Physical Memory: 116.79 MB used, 116.79 MB peak
+[2020.12.25-20.07.22:092][  0]LogMemory: Process Virtual Memory: 105.42 MB used, 105.42 MB peak
+[2020.12.25-20.07.22:092][  0]LogMemory: Physical Memory: 3464.82 MB used,  4564.23 MB free, 8029.05 MB total
+[2020.12.25-20.07.22:092][  0]LogMemory: Virtual Memory: 5174.97 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.12.25-20.07.22:105][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.25-20.07.22:302][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.25-20.07.22:310][  0]LogInit: Using OS detected language (ru-RU).
+[2020.12.25-20.07.22:310][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.12.25-20.07.22:354][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.12.25-20.07.22:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.12.25-20.07.22:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.12.25-20.07.22:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.12.25-20.07.22:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.12.25-20.07.22:356][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.12.25-20.07.22:356][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.12.25-20.07.22:357][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.12.25-20.07.22:360][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.25-20.07.22:492][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.25-20.07.22:492][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.25-20.07.28:376][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.25-20.07.28:377][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.25-20.07.28:377][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.25-20.07.28:377][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.25-20.07.28:631][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 Ti' (Feature Level 11_0)
+[2020.12.25-20.07.28:631][  0]LogD3D11RHI:       3962/0/4014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.25-20.07.28:745][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.25-20.07.28:746][  0]LogD3D11RHI:       128/0/4014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.25-20.07.28:751][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.25-20.07.28:751][  0]LogD3D11RHI:       0/0/4014 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.25-20.07.28:751][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.25-20.07.28:847][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.25-20.07.28:847][  0]LogD3D11RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.25-20.07.28:847][  0]LogWindows: EnumDisplayDevices:
+[2020.12.25-20.07.28:848][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.12.25-20.07.28:848][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.25-20.07.28:849][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.25-20.07.28:850][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0)
+[2020.12.25-20.07.28:851][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.12.25-20.07.28:851][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti
+[2020.12.25-20.07.28:851][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.12.25-20.07.28:851][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.12.25-20.07.28:851][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.12.25-20.07.28:996][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.25-20.07.28:996][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.25-20.07.28:996][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.25-20.07.29:055][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.25-20.07.30:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.25-20.07.30:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.25-20.07.30:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.25-20.07.30:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.25-20.07.30:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.25-20.07.30:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.25-20.07.30:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.25-20.07.30:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.25-20.07.30:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.25-20.07.30:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.25-20.07.30:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.25-20.07.30:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.25-20.07.30:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.25-20.07.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.25-20.07.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.25-20.07.30:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.25-20.07.30:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.25-20.07.30:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.25-20.07.30:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.25-20.07.30:615][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.25-20.07.30:641][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.25-20.07.30:832][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/roman/UnrealProjects/Collapse/Intermediate/Shaders/WorkingDirectory/25064/).
+[2020.12.25-20.07.30:833][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/roman/AppData/Local/Temp/UnrealShaderWorkingDir/4558B1C44CE944D15045CAB9C28EF496/'.
+[2020.12.25-20.07.30:834][  0]LogXGEController: Cleaning working directory: C:/Users/roman/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.25-20.07.30:834][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.25-20.07.30:835][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.25-20.07.30:835][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.25-20.07.36:774][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.25-20.07.36:940][  0]LogDerivedDataCache: Loaded boot cache 0.16s 92MB C:/Users/roman/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.25-20.07.36:940][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/roman/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.25-20.07.36:940][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/roman/UnrealProjects/Collapse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.25-20.07.36:940][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.25-20.07.36:940][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/roman/UnrealProjects/Collapse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.25-20.07.36:940][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.25-20.07.36:961][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.25-20.07.36:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.25-20.07.36:962][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.25-20.07.36:964][  0]LogDerivedDataCache: Using Local data cache path C:/Users/roman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.25-20.07.36:965][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.25-20.07.36:965][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.25-20.07.37:054][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.25-20.07.37:074][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.25-20.07.37:131][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2020.12.25-20.07.37:596][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.25-20.07.37:880][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.25-20.07.37:880][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.25-20.07.37:881][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.25-20.07.37:881][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.25-20.07.37:881][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.25-20.07.37:917][  0]LogNetVersion: AIShooter 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2332029690)
+[2020.12.25-20.07.38:919][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000015C4EA57340), frame # 0
+[2020.12.25-20.07.38:919][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015C4EA26AC0), frame # 0
+[2020.12.25-20.07.38:924][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015C4EA79C00), frame # 0
+[2020.12.25-20.07.39:039][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.097705 seconds
+[2020.12.25-20.07.39:046][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.25-20.07.39:046][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.25-20.07.39:046][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.25-20.07.40:266][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.25-20.07.40:279][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.25-20.07.40:405][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.12.25-20.07.40:406][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.12.25-20.07.40:406][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.12.25-20.07.40:497][  0]SourceControl: Source control is disabled
+[2020.12.25-20.07.40:498][  0]SourceControl: Source control is disabled
+[2020.12.25-20.07.40:515][  0]SourceControl: Source control is disabled
+[2020.12.25-20.07.40:527][  0]SourceControl: Source control is disabled
+[2020.12.25-20.07.46:783][  0]SourceControl: Source control is disabled
+[2020.12.25-20.07.47:283][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2020.12.25-20.07.47:284][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2020.12.25-20.07.47:804][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2020.12.25-20.07.47:804][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2020.12.25-20.07.48:241][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.25-20.07.48:290][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.25-20.07.48:290][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.25-20.07.48:398][  0]LogOcInput: OculusInput pre-init called
+[2020.12.25-20.07.48:430][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.25-20.07.48:430][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.25-20.07.48:622][  0]LogEngine: Initializing Engine...
+[2020.12.25-20.07.48:624][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.25-20.07.48:624][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.25-20.07.48:626][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.25-20.07.48:850][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.25-20.07.48:875][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.25-20.07.48:875][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015C55ABFC00), frame # 0
+[2020.12.25-20.07.48:876][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015C55B2F240), frame # 0
+[2020.12.25-20.07.48:901][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.25-20.07.48:901][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.25-20.07.48:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.25-20.07.48:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.25-20.07.48:901][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.25-20.07.48:901][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.25-20.07.48:901][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.25-20.07.48:901][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.25-20.07.48:901][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.25-20.07.48:901][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.25-20.07.48:934][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.25-20.07.48:934][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.25-20.07.49:005][  0]LogAudioMixer: Display: Using Audio Device Наушники (Realtek(R) Audio)
+[2020.12.25-20.07.49:011][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.25-20.07.49:023][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.25-20.07.49:023][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.25-20.07.49:025][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.25-20.07.49:026][  0]LogInit: FAudioDevice initialized.
+[2020.12.25-20.07.49:027][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.25-20.07.49:163][  0]LogDerivedDataCache: Saved boot cache 0.14s 92MB C:/Users/roman/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.25-20.07.49:172][  0]LogInit: Texture streaming: Enabled
+[2020.12.25-20.07.49:210][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.25-20.07.49:210][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.25-20.07.49:217][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.25-20.07.49:387][  0]LogInit: Transaction tracking system initialized
+[2020.12.25-20.07.49:460][  0]BlueprintLog: New page: Editor Load
+[2020.12.25-20.07.49:765][  0]LocalizationService: Localization service is disabled
+[2020.12.25-20.07.50:302][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.25-20.07.50:302][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.25-20.07.50:756][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roman/UnrealProjects/Collapse/Content/' took 0.02s
+[2020.12.25-20.07.51:122][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2020.12.25-20.07.51:122][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2020.12.25-20.07.51:235][  0]SourceControl: Source control is disabled
+[2020.12.25-20.07.51:235][  0]LogUnrealEdMisc: Loading editor; pre map load, took 39.967
+[2020.12.25-20.07.51:235][  0]Cmd: MAP LOAD FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.25-20.07.51:236][  0]LightingResults: New page: Lighting Build
+[2020.12.25-20.07.51:239][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.07.51:239][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.07.51:239][  0]MapCheck: New page: Map Check
+[2020.12.25-20.07.51:239][  0]LightingResults: New page: Lighting Build
+[2020.12.25-20.07.51:274][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015C55ABFC00), frame # 0
+[2020.12.25-20.07.51:274][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015C55B2F240), frame # 0
+[2020.12.25-20.07.51:275][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.12.25-20.07.56:366][  0]LogAIModule: Creating AISystem for world NewMap
+[2020.12.25-20.07.56:366][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015C4334DC00), frame # 0
+[2020.12.25-20.07.56:366][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015C43363240), frame # 0
+[2020.12.25-20.07.56:431][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.25-20.07.56:478][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.25-20.07.56:478][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.25-20.07.56:479][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,323ms to complete.
+[2020.12.25-20.07.56:479][  0]LogFileHelpers: Loading map 'NewMap' took 5.244
+[2020.12.25-20.07.56:571][  0]LogUnrealEdMisc: Total Editor Startup Time, took 45.303
+[2020.12.25-20.07.56:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.25-20.07.56:808][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.25-20.07.56:820][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.25-20.07.56:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.25-20.07.56:852][  0]LogCollectionManager: Loaded 0 collections in 0.003446 seconds
+[2020.12.25-20.07.56:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roman/UnrealProjects/Collapse/Saved/Collections/' took 0.00s
+[2020.12.25-20.07.56:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roman/UnrealProjects/Collapse/Content/Developers/roman/Collections/' took 0.00s
+[2020.12.25-20.07.56:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roman/UnrealProjects/Collapse/Content/Collections/' took 0.00s
+[2020.12.25-20.07.56:892][  0]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 3617 classes and 869 folders.
+[2020.12.25-20.07.56:907][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.25-20.07.57:363][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.25-20.07.57:367][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2020.12.25-20.07.57:747][  0]LogSlate: Took 0.001154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.25-20.07.57:750][  0]LogSlate: Took 0.001224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.25-20.07.57:758][  0]LogSlate: Took 0.000929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.25-20.07.57:925][  0]LogRenderer: Reallocating scene render targets to support 1088x168 Format 10 NumSamples 1 (Frame:1).
+[2020.12.25-20.07.58:028][  0]LogSlate: Took 0.001058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.25-20.07.58:130][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.25-20.07.58:130][  0]LogLoad: (Engine Initialization) Total time: 46.86 seconds
+[2020.12.25-20.07.58:130][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.25-20.07.58:208][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.25-20.07.58:377][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/roman/UnrealProjects/Collapse/Content/' took 0.22s
+[2020.12.25-20.07.58:489][  1]LogRenderer: Reallocating scene render targets to support 1088x256 Format 10 NumSamples 1 (Frame:1).
+[2020.12.25-20.07.58:489][  1]LogAssetRegistry: Asset discovery search completed in 21.3594 seconds
+[2020.12.25-20.07.58:497][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2020.12.25-20.07.59:722][  5]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.25-20.08.13:274][326]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0030.DrawCall_0030
+[2020.12.25-20.08.13:838][326]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.08.13:838][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.08.14:397][326]LogRenderer: Reallocating scene render targets to support 1432x900 Format 10 NumSamples 1 (Frame:1).
+[2020.12.25-20.08.14:397][326]LogSlate: Took 0.000982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.25-20.08.21:577][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0030" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0030.uasset" SILENT=true
+[2020.12.25-20.08.21:649][615]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_003091F0D7A74E086046AF2709948BF5CF04.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0030.uasset'
+[2020.12.25-20.08.21:690][615]AssetCheck: New page: Asset Save: DrawCall_0030
+[2020.12.25-20.08.21:690][615]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0030.DrawCall_0030
+[2020.12.25-20.08.23:062][672]LogSlate: Window 'DrawCall_0030' being destroyed
+[2020.12.25-20.08.23:138][672]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.08.23:138][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.08.24:660][732]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0031.DrawCall_0031
+[2020.12.25-20.08.24:984][732]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.08.24:984][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.08.32:680][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0031" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0031.uasset" SILENT=true
+[2020.12.25-20.08.32:739][ 37]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0031AC62CD8B43D3C28724C5719DEF383CFA.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0031.uasset'
+[2020.12.25-20.08.32:773][ 37]AssetCheck: New page: Asset Save: DrawCall_0031
+[2020.12.25-20.08.32:773][ 37]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0031.DrawCall_0031
+[2020.12.25-20.08.33:400][ 63]LogSlate: Window 'DrawCall_0031' being destroyed
+[2020.12.25-20.08.33:470][ 63]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.08.33:470][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.08.34:692][111]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0032.DrawCall_0032
+[2020.12.25-20.08.35:022][111]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.08.35:022][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.08.42:341][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0032" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0032.uasset" SILENT=true
+[2020.12.25-20.08.42:392][386]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0032375A6A0044B46FC14F2853AA4EF93550.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0032.uasset'
+[2020.12.25-20.08.42:427][386]AssetCheck: New page: Asset Save: DrawCall_0032
+[2020.12.25-20.08.42:427][386]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0032.DrawCall_0032
+[2020.12.25-20.09.07:561][572]LogSlate: Window 'DrawCall_0032' being destroyed
+[2020.12.25-20.09.07:627][572]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.07:627][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.11:332][747]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0032.DrawCall_0032
+[2020.12.25-20.09.11:654][747]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.11:655][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.15:971][912]LogSlate: Window 'DrawCall_0032' being destroyed
+[2020.12.25-20.09.16:046][912]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.16:046][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.17:411][964]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0033.DrawCall_0033
+[2020.12.25-20.09.17:738][964]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.17:738][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.25:101][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0033" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0033.uasset" SILENT=true
+[2020.12.25-20.09.25:151][245]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0033C390EEF7463ADD4208A6A2B827D6D0CA.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0033.uasset'
+[2020.12.25-20.09.25:181][245]AssetCheck: New page: Asset Save: DrawCall_0033
+[2020.12.25-20.09.25:181][245]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0033.DrawCall_0033
+[2020.12.25-20.09.25:857][270]LogSlate: Window 'DrawCall_0033' being destroyed
+[2020.12.25-20.09.25:921][270]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.25:921][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.26:935][307]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0034.DrawCall_0034
+[2020.12.25-20.09.27:260][307]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.27:260][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.33:307][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0034" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0034.uasset" SILENT=true
+[2020.12.25-20.09.33:364][532]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0034188BB0FD4566D482F99C8AA24F5E0D07.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0034.uasset'
+[2020.12.25-20.09.33:394][532]AssetCheck: New page: Asset Save: DrawCall_0034
+[2020.12.25-20.09.33:394][532]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0034.DrawCall_0034
+[2020.12.25-20.09.33:973][556]LogSlate: Window 'DrawCall_0034' being destroyed
+[2020.12.25-20.09.34:040][556]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.34:040][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.35:262][601]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0035.DrawCall_0035
+[2020.12.25-20.09.35:576][601]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.35:576][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.41:523][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0035" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0035.uasset" SILENT=true
+[2020.12.25-20.09.41:576][813]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_003548A4F8304AE9F457A40165BF64F728A8.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0035.uasset'
+[2020.12.25-20.09.41:606][813]AssetCheck: New page: Asset Save: DrawCall_0035
+[2020.12.25-20.09.41:606][813]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0035.DrawCall_0035
+[2020.12.25-20.09.42:333][844]LogSlate: Window 'DrawCall_0035' being destroyed
+[2020.12.25-20.09.42:400][844]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.42:400][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.44:045][910]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0036.DrawCall_0036
+[2020.12.25-20.09.44:406][910]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.44:406][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.50:883][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0036" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0036.uasset" SILENT=true
+[2020.12.25-20.09.50:935][158]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00363D37211F44AEAD5503DEEEB28078C028.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0036.uasset'
+[2020.12.25-20.09.50:965][158]AssetCheck: New page: Asset Save: DrawCall_0036
+[2020.12.25-20.09.50:965][158]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0036.DrawCall_0036
+[2020.12.25-20.09.51:803][194]LogSlate: Window 'DrawCall_0036' being destroyed
+[2020.12.25-20.09.51:865][194]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.51:865][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.09.52:896][227]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0037.DrawCall_0037
+[2020.12.25-20.09.53:218][227]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.09.53:218][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.10.01:446][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0037" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0037.uasset" SILENT=true
+[2020.12.25-20.10.01:497][550]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_003799C1F2AE43C1A74F47A6829F8F3932E3.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0037.uasset'
+[2020.12.25-20.10.01:519][550]AssetCheck: New page: Asset Save: DrawCall_0037
+[2020.12.25-20.10.01:519][550]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0037.DrawCall_0037
+[2020.12.25-20.10.20:303][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0037" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0037.uasset" SILENT=true
+[2020.12.25-20.10.20:344][377]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_003726CDB796417D4CB1CB269CAFC9292D36.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0037.uasset'
+[2020.12.25-20.10.20:373][377]AssetCheck: New page: Asset Save: DrawCall_0037
+[2020.12.25-20.10.20:373][377]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0037.DrawCall_0037
+[2020.12.25-20.10.20:914][395]LogSlate: Window 'DrawCall_0037' being destroyed
+[2020.12.25-20.10.20:995][395]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.10.20:995][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.10.22:481][444]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0038.DrawCall_0038
+[2020.12.25-20.10.22:831][444]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.10.22:831][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.10.29:106][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0038" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0038.uasset" SILENT=true
+[2020.12.25-20.10.29:163][625]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_003886EC9BAE4C560AFC44850A95431812BB.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0038.uasset'
+[2020.12.25-20.10.29:195][625]AssetCheck: New page: Asset Save: DrawCall_0038
+[2020.12.25-20.10.29:195][625]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0038.DrawCall_0038
+[2020.12.25-20.10.29:731][643]LogSlate: Window 'DrawCall_0038' being destroyed
+[2020.12.25-20.10.29:797][643]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.10.29:797][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.10.31:008][680]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0039.DrawCall_0039
+[2020.12.25-20.10.31:353][680]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.10.31:354][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.10.41:019][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0039" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0039.uasset" SILENT=true
+[2020.12.25-20.10.41:083][978]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0039CFC6A6E14A27B2A5131873B44C17E19A.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0039.uasset'
+[2020.12.25-20.10.41:120][978]AssetCheck: New page: Asset Save: DrawCall_0039
+[2020.12.25-20.10.41:120][978]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0039.DrawCall_0039
+[2020.12.25-20.10.42:319][ 20]LogSlate: Window 'DrawCall_0039' being destroyed
+[2020.12.25-20.10.42:390][ 20]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.10.42:390][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.10.55:002][649]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0040.DrawCall_0040
+[2020.12.25-20.10.55:326][649]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.10.55:326][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.02:323][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0040" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0040.uasset" SILENT=true
+[2020.12.25-20.11.02:380][923]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0040CB74B50A4D1F401AC9106FB36AF507E3.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0040.uasset'
+[2020.12.25-20.11.02:404][923]AssetCheck: New page: Asset Save: DrawCall_0040
+[2020.12.25-20.11.02:404][923]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0040.DrawCall_0040
+[2020.12.25-20.11.18:718][664]LogSlate: Window 'DrawCall_0040' being destroyed
+[2020.12.25-20.11.18:782][664]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.18:782][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.19:981][706]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0041.DrawCall_0041
+[2020.12.25-20.11.20:301][706]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.20:301][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.26:084][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0041" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0041.uasset" SILENT=true
+[2020.12.25-20.11.26:139][914]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_004193D3A2CA42DB54418C3FD4A8D98741E3.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0041.uasset'
+[2020.12.25-20.11.26:171][914]AssetCheck: New page: Asset Save: DrawCall_0041
+[2020.12.25-20.11.26:171][914]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0041.DrawCall_0041
+[2020.12.25-20.11.26:735][938]LogSlate: Window 'DrawCall_0041' being destroyed
+[2020.12.25-20.11.26:802][938]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.26:802][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.28:036][985]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0042.DrawCall_0042
+[2020.12.25-20.11.28:356][985]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.28:356][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.36:185][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0042" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0042.uasset" SILENT=true
+[2020.12.25-20.11.36:236][290]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0042AC132DE34AD25580C526CBB4D20325A1.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0042.uasset'
+[2020.12.25-20.11.36:258][290]AssetCheck: New page: Asset Save: DrawCall_0042
+[2020.12.25-20.11.36:258][290]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0042.DrawCall_0042
+[2020.12.25-20.11.37:912][358]LogSlate: Window 'DrawCall_0042' being destroyed
+[2020.12.25-20.11.37:981][358]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.37:981][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.39:051][400]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0043.DrawCall_0043
+[2020.12.25-20.11.39:407][400]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.39:407][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.45:537][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0043" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0043.uasset" SILENT=true
+[2020.12.25-20.11.45:589][626]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00439128A12D475D5C2F4321B7A594B8B96C.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0043.uasset'
+[2020.12.25-20.11.45:613][626]AssetCheck: New page: Asset Save: DrawCall_0043
+[2020.12.25-20.11.45:613][626]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0043.DrawCall_0043
+[2020.12.25-20.11.46:261][653]LogSlate: Window 'DrawCall_0043' being destroyed
+[2020.12.25-20.11.46:337][653]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.46:337][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.47:636][704]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0044.DrawCall_0044
+[2020.12.25-20.11.47:964][704]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.47:964][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.53:697][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0044" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0044.uasset" SILENT=true
+[2020.12.25-20.11.53:751][911]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0044491432C040E1B9982FE4CAA755A2A56C.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0044.uasset'
+[2020.12.25-20.11.53:782][911]AssetCheck: New page: Asset Save: DrawCall_0044
+[2020.12.25-20.11.53:782][911]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0044.DrawCall_0044
+[2020.12.25-20.11.54:380][935]LogSlate: Window 'DrawCall_0044' being destroyed
+[2020.12.25-20.11.54:452][935]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.54:452][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.11.55:708][980]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0045.DrawCall_0045
+[2020.12.25-20.11.56:097][980]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.11.56:097][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.02:537][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0045" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0045.uasset" SILENT=true
+[2020.12.25-20.12.02:593][218]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0045FA8493914821321151BC7FB26562EE3B.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0045.uasset'
+[2020.12.25-20.12.02:623][218]AssetCheck: New page: Asset Save: DrawCall_0045
+[2020.12.25-20.12.02:623][218]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0045.DrawCall_0045
+[2020.12.25-20.12.03:107][238]LogSlate: Window 'DrawCall_0045' being destroyed
+[2020.12.25-20.12.03:180][238]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.03:180][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.04:226][278]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0046.DrawCall_0046
+[2020.12.25-20.12.04:553][278]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.04:554][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.17:180][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0046" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0046.uasset" SILENT=true
+[2020.12.25-20.12.17:237][808]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0046C399C6594C4F50860EAE6899B8401269.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0046.uasset'
+[2020.12.25-20.12.17:278][808]AssetCheck: New page: Asset Save: DrawCall_0046
+[2020.12.25-20.12.17:278][808]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0046.DrawCall_0046
+[2020.12.25-20.12.18:189][840]LogSlate: Window 'DrawCall_0046' being destroyed
+[2020.12.25-20.12.18:267][840]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.18:267][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.19:483][883]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0047.DrawCall_0047
+[2020.12.25-20.12.19:810][883]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.19:810][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.26:093][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0047" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0047.uasset" SILENT=true
+[2020.12.25-20.12.26:153][114]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0047205CFF104C2323D76B9FBEA1547CF6DA.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0047.uasset'
+[2020.12.25-20.12.26:186][114]AssetCheck: New page: Asset Save: DrawCall_0047
+[2020.12.25-20.12.26:186][114]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0047.DrawCall_0047
+[2020.12.25-20.12.28:055][198]LogSlate: Window 'DrawCall_0047' being destroyed
+[2020.12.25-20.12.28:138][198]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.28:139][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.30:100][282]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0048.DrawCall_0048
+[2020.12.25-20.12.30:430][282]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.30:430][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.36:148][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0048" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0048.uasset" SILENT=true
+[2020.12.25-20.12.36:207][481]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00483CC32C8D486468279A0923B7AB9F6E45.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0048.uasset'
+[2020.12.25-20.12.36:237][481]AssetCheck: New page: Asset Save: DrawCall_0048
+[2020.12.25-20.12.36:237][481]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0048.DrawCall_0048
+[2020.12.25-20.12.37:140][519]LogSlate: Window 'DrawCall_0048' being destroyed
+[2020.12.25-20.12.37:219][519]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.37:219][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.38:691][576]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0049.DrawCall_0049
+[2020.12.25-20.12.39:057][576]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.39:057][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.45:469][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0049" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0049.uasset" SILENT=true
+[2020.12.25-20.12.45:522][816]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0049674E54404B9D6BE728BC20A7E8D2A98D.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0049.uasset'
+[2020.12.25-20.12.45:549][816]AssetCheck: New page: Asset Save: DrawCall_0049
+[2020.12.25-20.12.45:549][816]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0049.DrawCall_0049
+[2020.12.25-20.12.48:341][941]LogSlate: Window 'DrawCall_0049' being destroyed
+[2020.12.25-20.12.48:430][941]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.48:430][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.50:677][ 36]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0050.DrawCall_0050
+[2020.12.25-20.12.51:028][ 36]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.51:028][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.57:387][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0050" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0050.uasset" SILENT=true
+[2020.12.25-20.12.57:445][274]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_005086C593174B3A5592D9686884AEAF7ECB.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0050.uasset'
+[2020.12.25-20.12.57:475][274]AssetCheck: New page: Asset Save: DrawCall_0050
+[2020.12.25-20.12.57:475][274]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0050.DrawCall_0050
+[2020.12.25-20.12.58:066][297]LogSlate: Window 'DrawCall_0050' being destroyed
+[2020.12.25-20.12.58:166][297]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.58:166][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.12.59:418][346]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0051.DrawCall_0051
+[2020.12.25-20.12.59:740][346]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.12.59:740][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.07:789][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0051" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0051.uasset" SILENT=true
+[2020.12.25-20.13.07:848][657]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0051F8C224B446C4405DCAD9A8B48751F211.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0051.uasset'
+[2020.12.25-20.13.07:877][657]AssetCheck: New page: Asset Save: DrawCall_0051
+[2020.12.25-20.13.07:877][657]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0051.DrawCall_0051
+[2020.12.25-20.13.10:622][785]LogSlate: Window 'DrawCall_0051' being destroyed
+[2020.12.25-20.13.10:692][785]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.10:692][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.11:966][832]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0052.DrawCall_0052
+[2020.12.25-20.13.12:281][832]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.12:281][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.18:296][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0052" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0052.uasset" SILENT=true
+[2020.12.25-20.13.18:351][ 55]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0052009868154EBE635DE7E3C0B712853533.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0052.uasset'
+[2020.12.25-20.13.18:381][ 55]AssetCheck: New page: Asset Save: DrawCall_0052
+[2020.12.25-20.13.18:381][ 55]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0052.DrawCall_0052
+[2020.12.25-20.13.21:024][174]LogSlate: Window 'DrawCall_0052' being destroyed
+[2020.12.25-20.13.21:099][174]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.21:099][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.22:329][221]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0053.DrawCall_0053
+[2020.12.25-20.13.22:650][221]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.22:650][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.29:070][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0053" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0053.uasset" SILENT=true
+[2020.12.25-20.13.29:127][453]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_005307ADECA445BE525B487C0C933D90E9F5.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0053.uasset'
+[2020.12.25-20.13.29:159][453]AssetCheck: New page: Asset Save: DrawCall_0053
+[2020.12.25-20.13.29:159][453]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0053.DrawCall_0053
+[2020.12.25-20.13.29:861][482]LogSlate: Window 'DrawCall_0053' being destroyed
+[2020.12.25-20.13.29:941][482]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.29:941][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.31:099][524]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0054.DrawCall_0054
+[2020.12.25-20.13.31:421][524]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.31:421][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.39:332][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0054" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0054.uasset" SILENT=true
+[2020.12.25-20.13.39:388][822]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00545315017649F9F7163138C0A9AEBC0430.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0054.uasset'
+[2020.12.25-20.13.39:416][822]AssetCheck: New page: Asset Save: DrawCall_0054
+[2020.12.25-20.13.39:416][822]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0054.DrawCall_0054
+[2020.12.25-20.13.40:223][855]LogSlate: Window 'DrawCall_0054' being destroyed
+[2020.12.25-20.13.40:284][855]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.40:284][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.42:115][927]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0055.DrawCall_0055
+[2020.12.25-20.13.42:441][927]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.42:442][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.49:122][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0055" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0055.uasset" SILENT=true
+[2020.12.25-20.13.49:180][170]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_005541B336F248B4796BFEA61B9CAD81031A.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0055.uasset'
+[2020.12.25-20.13.49:207][170]AssetCheck: New page: Asset Save: DrawCall_0055
+[2020.12.25-20.13.49:207][170]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0055.DrawCall_0055
+[2020.12.25-20.13.49:848][196]LogSlate: Window 'DrawCall_0055' being destroyed
+[2020.12.25-20.13.49:918][196]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.49:918][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.51:275][243]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0056.DrawCall_0056
+[2020.12.25-20.13.51:611][243]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.51:611][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.13.58:148][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0056" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0056.uasset" SILENT=true
+[2020.12.25-20.13.58:211][469]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_005661A7315F4E37AE7238126D90582515F0.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0056.uasset'
+[2020.12.25-20.13.58:245][469]AssetCheck: New page: Asset Save: DrawCall_0056
+[2020.12.25-20.13.58:245][469]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0056.DrawCall_0056
+[2020.12.25-20.13.59:386][519]LogSlate: Window 'DrawCall_0056' being destroyed
+[2020.12.25-20.13.59:475][519]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.13.59:475][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.02:023][629]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0057.DrawCall_0057
+[2020.12.25-20.14.02:348][629]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.02:348][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.08:367][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0057" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0057.uasset" SILENT=true
+[2020.12.25-20.14.08:423][850]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0057823A37BE403A65C5EC4BAB85CABE0DD6.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0057.uasset'
+[2020.12.25-20.14.08:455][850]AssetCheck: New page: Asset Save: DrawCall_0057
+[2020.12.25-20.14.08:455][850]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0057.DrawCall_0057
+[2020.12.25-20.14.09:172][879]LogSlate: Window 'DrawCall_0057' being destroyed
+[2020.12.25-20.14.09:251][879]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.09:251][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.10:561][931]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0058.DrawCall_0058
+[2020.12.25-20.14.10:884][931]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.10:884][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.17:522][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0058" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0058.uasset" SILENT=true
+[2020.12.25-20.14.17:582][164]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00585FEFD2E84B7C9DEEE236DEB94F7B08F6.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0058.uasset'
+[2020.12.25-20.14.17:606][164]AssetCheck: New page: Asset Save: DrawCall_0058
+[2020.12.25-20.14.17:606][164]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0058.DrawCall_0058
+[2020.12.25-20.14.19:068][219]LogSlate: Window 'DrawCall_0058' being destroyed
+[2020.12.25-20.14.19:140][219]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.19:140][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.20:416][264]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0058.DrawCall_0058
+[2020.12.25-20.14.20:739][264]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.20:739][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.24:966][436]LogSlate: Window 'DrawCall_0058' being destroyed
+[2020.12.25-20.14.25:054][436]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.25:054][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.26:118][470]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0059.DrawCall_0059
+[2020.12.25-20.14.26:492][470]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.26:492][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.32:990][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0059" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0059.uasset" SILENT=true
+[2020.12.25-20.14.33:050][694]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00591E3C0D3D4255554486292AA1852B87AE.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0059.uasset'
+[2020.12.25-20.14.33:085][694]AssetCheck: New page: Asset Save: DrawCall_0059
+[2020.12.25-20.14.33:085][694]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0059.DrawCall_0059
+[2020.12.25-20.14.34:543][757]LogSlate: Window 'DrawCall_0059' being destroyed
+[2020.12.25-20.14.34:641][757]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.34:641][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.36:029][804]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0060.DrawCall_0060
+[2020.12.25-20.14.36:360][804]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.36:360][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.42:141][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0060" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0060.uasset" SILENT=true
+[2020.12.25-20.14.42:200][998]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0060033DD71D4B5B1E0E4730E485ADA09A5A.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0060.uasset'
+[2020.12.25-20.14.42:232][998]AssetCheck: New page: Asset Save: DrawCall_0060
+[2020.12.25-20.14.42:232][998]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0060.DrawCall_0060
+[2020.12.25-20.14.42:917][ 27]LogSlate: Window 'DrawCall_0060' being destroyed
+[2020.12.25-20.14.42:998][ 27]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.42:998][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.44:008][ 59]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0061.DrawCall_0061
+[2020.12.25-20.14.44:399][ 59]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.44:399][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.50:848][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0061" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0061.uasset" SILENT=true
+[2020.12.25-20.14.50:915][280]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0061BCE81325486FD64BE2DD899110B84760.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0061.uasset'
+[2020.12.25-20.14.50:944][280]AssetCheck: New page: Asset Save: DrawCall_0061
+[2020.12.25-20.14.50:944][280]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0061.DrawCall_0061
+[2020.12.25-20.14.53:620][388]LogSlate: Window 'DrawCall_0061' being destroyed
+[2020.12.25-20.14.53:699][388]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.53:699][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.14.54:845][411]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0062.DrawCall_0062
+[2020.12.25-20.14.55:503][411]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.14.55:503][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.01:256][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0062" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0062.uasset" SILENT=true
+[2020.12.25-20.15.01:361][605]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0062C076F7D6483F95C84DDC0FA68A8C56DE.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0062.uasset'
+[2020.12.25-20.15.01:402][605]AssetCheck: New page: Asset Save: DrawCall_0062
+[2020.12.25-20.15.01:402][605]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0062.DrawCall_0062
+[2020.12.25-20.15.01:808][621]LogSlate: Window 'DrawCall_0062' being destroyed
+[2020.12.25-20.15.01:878][621]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.01:878][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.03:876][689]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0063.DrawCall_0063
+[2020.12.25-20.15.04:259][689]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.04:259][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.11:280][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0063" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0063.uasset" SILENT=true
+[2020.12.25-20.15.11:422][929]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00636320B5F04442440D81FC698C571901FB.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0063.uasset'
+[2020.12.25-20.15.11:474][929]AssetCheck: New page: Asset Save: DrawCall_0063
+[2020.12.25-20.15.11:475][929]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0063.DrawCall_0063
+[2020.12.25-20.15.12:195][956]LogSlate: Window 'DrawCall_0063' being destroyed
+[2020.12.25-20.15.12:307][956]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.12:311][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.13:552][956]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0064.DrawCall_0064
+[2020.12.25-20.15.14:276][956]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.14:277][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.24:286][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0064" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0064.uasset" SILENT=true
+[2020.12.25-20.15.24:381][264]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00640CDB1873466A60436DCE2C9769F16515.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0064.uasset'
+[2020.12.25-20.15.24:411][264]AssetCheck: New page: Asset Save: DrawCall_0064
+[2020.12.25-20.15.24:411][264]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0064.DrawCall_0064
+[2020.12.25-20.15.25:157][289]LogSlate: Window 'DrawCall_0064' being destroyed
+[2020.12.25-20.15.25:239][289]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.25:239][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.26:609][330]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0063.DrawCall_0063
+[2020.12.25-20.15.26:964][330]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.26:965][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.33:349][585]LogSlate: Window 'DrawCall_0063' being destroyed
+[2020.12.25-20.15.33:433][585]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.33:433][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.35:496][660]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0064.DrawCall_0064
+[2020.12.25-20.15.35:834][660]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.35:834][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.43:654][967]LogSlate: Window 'DrawCall_0064' being destroyed
+[2020.12.25-20.15.43:720][967]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.43:720][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.15.46:383][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.25-20.15.46:786][ 76]LogUObjectHash: Compacting FUObjectHashTables data took  38.67ms
+[2020.12.25-20.15.47:480][ 76]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/NewMap9D670EE34AB222DEFCB7AFBCEACDEDA4.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/NewMap.umap'
+[2020.12.25-20.15.47:604][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2020.12.25-20.15.48:614][ 76]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/NewMap_BuiltData7BB9CFC84192C1A307F0AA839A39F772.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/NewMap_BuiltData.uasset'
+[2020.12.25-20.15.48:990][ 76]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.25-20.15.48:991][ 76]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2020.12.25-20.15.48:991][ 76]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2020.12.25-20.15.50:862][157]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0065.DrawCall_0065
+[2020.12.25-20.15.51:225][157]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.15.51:225][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.00:112][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0065" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0065.uasset" SILENT=true
+[2020.12.25-20.16.00:178][498]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00655BAB6EB747B2D4FA535A90A3CEF04578.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0065.uasset'
+[2020.12.25-20.16.00:207][498]AssetCheck: New page: Asset Save: DrawCall_0065
+[2020.12.25-20.16.00:207][498]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0065.DrawCall_0065
+[2020.12.25-20.16.00:983][530]LogSlate: Window 'DrawCall_0065' being destroyed
+[2020.12.25-20.16.01:056][530]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.01:056][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.02:523][585]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0066.DrawCall_0066
+[2020.12.25-20.16.02:844][585]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.02:844][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.08:473][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0066" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0066.uasset" SILENT=true
+[2020.12.25-20.16.08:533][781]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0066D0604A4548EA4CD110FE2387A26B291A.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0066.uasset'
+[2020.12.25-20.16.08:570][781]AssetCheck: New page: Asset Save: DrawCall_0066
+[2020.12.25-20.16.08:570][781]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0066.DrawCall_0066
+[2020.12.25-20.16.09:185][807]LogSlate: Window 'DrawCall_0066' being destroyed
+[2020.12.25-20.16.09:261][807]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.09:261][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.10:828][871]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0067.DrawCall_0067
+[2020.12.25-20.16.11:149][871]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.11:149][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.16:565][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0067" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0067.uasset" SILENT=true
+[2020.12.25-20.16.16:629][ 63]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_006782A03DC0481AE23C2ABD69BD8CFC419F.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0067.uasset'
+[2020.12.25-20.16.16:663][ 63]AssetCheck: New page: Asset Save: DrawCall_0067
+[2020.12.25-20.16.16:664][ 63]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0067.DrawCall_0067
+[2020.12.25-20.16.17:189][ 85]LogSlate: Window 'DrawCall_0067' being destroyed
+[2020.12.25-20.16.17:262][ 85]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.17:262][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.18:291][123]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0068.DrawCall_0068
+[2020.12.25-20.16.18:636][123]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.18:636][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.24:229][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0068" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0068.uasset" SILENT=true
+[2020.12.25-20.16.24:308][333]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0068C92710A7459CCA6054B4739820CD6E60.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0068.uasset'
+[2020.12.25-20.16.24:335][333]AssetCheck: New page: Asset Save: DrawCall_0068
+[2020.12.25-20.16.24:335][333]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0068.DrawCall_0068
+[2020.12.25-20.16.25:237][372]LogSlate: Window 'DrawCall_0068' being destroyed
+[2020.12.25-20.16.25:302][372]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.25:302][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.26:964][446]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0069.DrawCall_0069
+[2020.12.25-20.16.27:285][446]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.27:287][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.34:638][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0069" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0069.uasset" SILENT=true
+[2020.12.25-20.16.34:703][742]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_006939EE30074E156B12F2A878B23DD37A2D.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0069.uasset'
+[2020.12.25-20.16.34:738][742]AssetCheck: New page: Asset Save: DrawCall_0069
+[2020.12.25-20.16.34:738][742]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0069.DrawCall_0069
+[2020.12.25-20.16.35:295][766]LogSlate: Window 'DrawCall_0069' being destroyed
+[2020.12.25-20.16.35:372][766]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.35:372][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.36:566][812]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0070.DrawCall_0070
+[2020.12.25-20.16.36:892][812]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.36:892][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.42:696][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0070" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0070.uasset" SILENT=true
+[2020.12.25-20.16.42:754][ 19]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0070758E97694B5324C96EB551BDB8CA9115.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0070.uasset'
+[2020.12.25-20.16.42:784][ 19]AssetCheck: New page: Asset Save: DrawCall_0070
+[2020.12.25-20.16.42:784][ 19]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0070.DrawCall_0070
+[2020.12.25-20.16.43:345][ 42]LogSlate: Window 'DrawCall_0070' being destroyed
+[2020.12.25-20.16.43:417][ 42]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.43:417][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.44:921][101]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0071.DrawCall_0071
+[2020.12.25-20.16.45:245][101]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.45:246][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.50:533][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0071" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0071.uasset" SILENT=true
+[2020.12.25-20.16.50:603][297]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0071E023E2854FAB5F283E061097EBC02468.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0071.uasset'
+[2020.12.25-20.16.50:632][297]AssetCheck: New page: Asset Save: DrawCall_0071
+[2020.12.25-20.16.50:632][297]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0071.DrawCall_0071
+[2020.12.25-20.16.51:155][319]LogSlate: Window 'DrawCall_0071' being destroyed
+[2020.12.25-20.16.51:232][319]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.51:232][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.52:868][386]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0072.DrawCall_0072
+[2020.12.25-20.16.53:181][386]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.53:181][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.56:659][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0072" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0072.uasset" SILENT=true
+[2020.12.25-20.16.56:718][502]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_007274C331E24C8FA21D0F5F30AA3F672181.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0072.uasset'
+[2020.12.25-20.16.56:750][502]AssetCheck: New page: Asset Save: DrawCall_0072
+[2020.12.25-20.16.56:750][502]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0072.DrawCall_0072
+[2020.12.25-20.16.57:242][522]LogSlate: Window 'DrawCall_0072' being destroyed
+[2020.12.25-20.16.57:343][522]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.57:343][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.16.59:379][607]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0073.DrawCall_0073
+[2020.12.25-20.16.59:702][607]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.16.59:702][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.03:851][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0073" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0073.uasset" SILENT=true
+[2020.12.25-20.17.03:911][749]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_007359363BA449829A8F53A2A2A3763A887E.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0073.uasset'
+[2020.12.25-20.17.03:942][749]AssetCheck: New page: Asset Save: DrawCall_0073
+[2020.12.25-20.17.03:942][749]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0073.DrawCall_0073
+[2020.12.25-20.17.04:487][772]LogSlate: Window 'DrawCall_0073' being destroyed
+[2020.12.25-20.17.04:555][772]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.04:555][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.06:374][845]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0074.DrawCall_0074
+[2020.12.25-20.17.06:705][845]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.06:705][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.16:023][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0074" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0074.uasset" SILENT=true
+[2020.12.25-20.17.16:087][229]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0074465A35BD46FE1EDB37F957B3430B2C72.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0074.uasset'
+[2020.12.25-20.17.16:112][229]AssetCheck: New page: Asset Save: DrawCall_0074
+[2020.12.25-20.17.16:112][229]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0074.DrawCall_0074
+[2020.12.25-20.17.16:689][249]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.25-20.17.16:690][249]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.25-20.17.20:676][432]LogSlate: Window 'DrawCall_0074' being destroyed
+[2020.12.25-20.17.20:755][432]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.20:755][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.22:761][515]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0075.DrawCall_0075
+[2020.12.25-20.17.23:095][515]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.23:095][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.30:232][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0075" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0075.uasset" SILENT=true
+[2020.12.25-20.17.30:286][784]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00754435FB5F482DD3403C05CA828D31C297.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0075.uasset'
+[2020.12.25-20.17.30:311][784]AssetCheck: New page: Asset Save: DrawCall_0075
+[2020.12.25-20.17.30:311][784]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0075.DrawCall_0075
+[2020.12.25-20.17.31:006][810]LogSlate: Window 'DrawCall_0075' being destroyed
+[2020.12.25-20.17.31:077][810]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.31:077][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.32:771][885]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0075.DrawCall_0075
+[2020.12.25-20.17.33:097][885]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.33:097][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.36:086][985]LogSlate: Window 'DrawCall_0075' being destroyed
+[2020.12.25-20.17.36:156][985]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.36:156][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.37:472][ 39]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0076.DrawCall_0076
+[2020.12.25-20.17.37:797][ 39]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.37:797][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.43:027][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0076" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0076.uasset" SILENT=true
+[2020.12.25-20.17.43:106][233]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00763BEF311E4E123CE76210F68482AD9258.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0076.uasset'
+[2020.12.25-20.17.43:141][233]AssetCheck: New page: Asset Save: DrawCall_0076
+[2020.12.25-20.17.43:141][233]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0076.DrawCall_0076
+[2020.12.25-20.17.44:619][300]LogSlate: Window 'DrawCall_0076' being destroyed
+[2020.12.25-20.17.44:682][300]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.44:683][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.46:209][362]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0077.DrawCall_0077
+[2020.12.25-20.17.46:534][362]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.46:534][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.50:000][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0077" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0077.uasset" SILENT=true
+[2020.12.25-20.17.50:062][477]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0077F2BAAE8E4D305D297E2844B8283ED65D.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0077.uasset'
+[2020.12.25-20.17.50:093][477]AssetCheck: New page: Asset Save: DrawCall_0077
+[2020.12.25-20.17.50:093][477]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0077.DrawCall_0077
+[2020.12.25-20.17.50:632][500]LogSlate: Window 'DrawCall_0077' being destroyed
+[2020.12.25-20.17.50:694][500]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.50:694][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.53:125][598]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0078.DrawCall_0078
+[2020.12.25-20.17.53:456][598]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.53:457][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.57:470][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0078" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0078.uasset" SILENT=true
+[2020.12.25-20.17.57:532][731]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00788A8DE60B441BBEE9207D4E868E3BF197.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0078.uasset'
+[2020.12.25-20.17.57:557][731]AssetCheck: New page: Asset Save: DrawCall_0078
+[2020.12.25-20.17.57:557][731]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0078.DrawCall_0078
+[2020.12.25-20.17.58:102][753]LogSlate: Window 'DrawCall_0078' being destroyed
+[2020.12.25-20.17.58:174][753]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.58:174][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.17.59:441][798]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0079.DrawCall_0079
+[2020.12.25-20.17.59:775][798]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.17.59:775][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.03:901][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0079" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0079.uasset" SILENT=true
+[2020.12.25-20.18.03:957][930]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00792DC16E454F3B259C94D5B2B6F0A768C4.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0079.uasset'
+[2020.12.25-20.18.03:979][930]AssetCheck: New page: Asset Save: DrawCall_0079
+[2020.12.25-20.18.03:979][930]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0079.DrawCall_0079
+[2020.12.25-20.18.04:584][955]LogSlate: Window 'DrawCall_0079' being destroyed
+[2020.12.25-20.18.04:657][955]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.04:657][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.07:081][ 52]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0080.DrawCall_0080
+[2020.12.25-20.18.07:427][ 52]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.07:427][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.11:555][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0080" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0080.uasset" SILENT=true
+[2020.12.25-20.18.11:613][188]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00801D6D54F644881527E2D3C89736DC05C0.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0080.uasset'
+[2020.12.25-20.18.11:647][188]AssetCheck: New page: Asset Save: DrawCall_0080
+[2020.12.25-20.18.11:647][188]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0080.DrawCall_0080
+[2020.12.25-20.18.12:274][213]LogSlate: Window 'DrawCall_0080' being destroyed
+[2020.12.25-20.18.12:339][213]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.12:339][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.13:678][262]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0081.DrawCall_0081
+[2020.12.25-20.18.14:013][262]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.14:013][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.20:561][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0081" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0081.uasset" SILENT=true
+[2020.12.25-20.18.20:625][504]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0081BF54A81E4EB0ED4A0772A88EAB24FFF6.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0081.uasset'
+[2020.12.25-20.18.20:664][504]AssetCheck: New page: Asset Save: DrawCall_0081
+[2020.12.25-20.18.20:664][504]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0081.DrawCall_0081
+[2020.12.25-20.18.21:169][524]LogSlate: Window 'DrawCall_0081' being destroyed
+[2020.12.25-20.18.21:228][524]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.21:228][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.22:286][559]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0082.DrawCall_0082
+[2020.12.25-20.18.22:615][559]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.22:615][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.25:976][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0082" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0082.uasset" SILENT=true
+[2020.12.25-20.18.26:035][670]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00827519EAE3463753DD5939899080D9950A.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0082.uasset'
+[2020.12.25-20.18.26:061][670]AssetCheck: New page: Asset Save: DrawCall_0082
+[2020.12.25-20.18.26:061][670]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0082.DrawCall_0082
+[2020.12.25-20.18.26:579][691]LogSlate: Window 'DrawCall_0082' being destroyed
+[2020.12.25-20.18.26:647][691]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.26:647][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.27:856][738]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0083.DrawCall_0083
+[2020.12.25-20.18.28:167][738]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.28:167][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.31:891][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0083" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0083.uasset" SILENT=true
+[2020.12.25-20.18.31:957][863]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0083120386ED4E191A32FFEA0581FEE2D262.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0083.uasset'
+[2020.12.25-20.18.31:983][863]AssetCheck: New page: Asset Save: DrawCall_0083
+[2020.12.25-20.18.31:983][863]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0083.DrawCall_0083
+[2020.12.25-20.18.32:651][890]LogSlate: Window 'DrawCall_0083' being destroyed
+[2020.12.25-20.18.32:721][890]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.32:721][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.34:196][948]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0084.DrawCall_0084
+[2020.12.25-20.18.34:523][948]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.34:523][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.38:518][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0084" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0084.uasset" SILENT=true
+[2020.12.25-20.18.38:577][ 87]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_008460ABE2D0414AF36255EEF39C5539DABD.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0084.uasset'
+[2020.12.25-20.18.38:614][ 87]AssetCheck: New page: Asset Save: DrawCall_0084
+[2020.12.25-20.18.38:614][ 87]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0084.DrawCall_0084
+[2020.12.25-20.18.39:298][117]LogSlate: Window 'DrawCall_0084' being destroyed
+[2020.12.25-20.18.39:366][117]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.39:366][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.45:218][292]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0084.DrawCall_0084
+[2020.12.25-20.18.45:557][292]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.45:557][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.48:313][386]LogSlate: Window 'DrawCall_0084' being destroyed
+[2020.12.25-20.18.48:388][386]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.48:388][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.18.49:253][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.25-20.18.49:339][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.12.25-20.18.49:715][421]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/NewMap87FB24FE47777E409376D6B1EB7D0531.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/NewMap.umap'
+[2020.12.25-20.18.49:795][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2020.12.25-20.18.50:326][421]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/NewMap_BuiltData1C17DD954B6C93B33652AD8ECC4595E5.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/NewMap_BuiltData.uasset'
+[2020.12.25-20.18.50:401][421]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.25-20.18.50:401][421]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2020.12.25-20.18.50:401][421]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2020.12.25-20.18.51:982][493]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0085.DrawCall_0085
+[2020.12.25-20.18.52:329][493]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.18.52:329][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.02:174][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0085" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0085.uasset" SILENT=true
+[2020.12.25-20.19.02:236][900]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0085B1669F604DBD4C38BC89DA925A02C487.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0085.uasset'
+[2020.12.25-20.19.02:265][900]AssetCheck: New page: Asset Save: DrawCall_0085
+[2020.12.25-20.19.02:265][900]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0085.DrawCall_0085
+[2020.12.25-20.19.02:731][919]LogSlate: Window 'DrawCall_0085' being destroyed
+[2020.12.25-20.19.02:800][919]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.02:801][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.03:918][963]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0086.DrawCall_0086
+[2020.12.25-20.19.04:247][963]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.04:247][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.08:510][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0086" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0086.uasset" SILENT=true
+[2020.12.25-20.19.08:573][114]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0086A8F927724FFE4996919C3BB828C9DEFE.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0086.uasset'
+[2020.12.25-20.19.08:602][114]AssetCheck: New page: Asset Save: DrawCall_0086
+[2020.12.25-20.19.08:602][114]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0086.DrawCall_0086
+[2020.12.25-20.19.09:858][167]LogSlate: Window 'DrawCall_0086' being destroyed
+[2020.12.25-20.19.09:917][167]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.09:917][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.11:056][210]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0087.DrawCall_0087
+[2020.12.25-20.19.11:386][210]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.11:386][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.22:934][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0087" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0087.uasset" SILENT=true
+[2020.12.25-20.19.22:997][698]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_008728EBACC34A504407F21E49AA1D17BB72.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0087.uasset'
+[2020.12.25-20.19.23:031][698]AssetCheck: New page: Asset Save: DrawCall_0087
+[2020.12.25-20.19.23:031][698]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0087.DrawCall_0087
+[2020.12.25-20.19.23:957][736]LogSlate: Window 'DrawCall_0087' being destroyed
+[2020.12.25-20.19.24:020][736]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.24:020][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.25:875][815]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0088.DrawCall_0088
+[2020.12.25-20.19.26:192][815]LogWorld: UWorld::CleanupWorld for World_130, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.26:192][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.29:681][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0088" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0088.uasset" SILENT=true
+[2020.12.25-20.19.29:746][924]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0088E95186D649976CE9FC0DCABB1446C675.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0088.uasset'
+[2020.12.25-20.19.29:776][924]AssetCheck: New page: Asset Save: DrawCall_0088
+[2020.12.25-20.19.29:776][924]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0088.DrawCall_0088
+[2020.12.25-20.19.30:418][950]LogSlate: Window 'DrawCall_0088' being destroyed
+[2020.12.25-20.19.30:479][950]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.30:480][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.31:504][990]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0089.DrawCall_0089
+[2020.12.25-20.19.31:827][990]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.31:827][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.36:590][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0089" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0089.uasset" SILENT=true
+[2020.12.25-20.19.36:650][166]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00894D3F9C174D8E94D3AE89ECA8E8C8578C.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0089.uasset'
+[2020.12.25-20.19.36:677][166]AssetCheck: New page: Asset Save: DrawCall_0089
+[2020.12.25-20.19.36:678][166]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0089.DrawCall_0089
+[2020.12.25-20.19.37:541][203]LogSlate: Window 'DrawCall_0089' being destroyed
+[2020.12.25-20.19.37:605][203]LogWorld: UWorld::CleanupWorld for World_133, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.37:605][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.39:073][261]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0090.DrawCall_0090
+[2020.12.25-20.19.39:397][261]LogWorld: UWorld::CleanupWorld for World_134, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.39:397][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.43:227][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0090" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0090.uasset" SILENT=true
+[2020.12.25-20.19.43:294][384]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00905F355FA6445448CC00E64583575D4192.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0090.uasset'
+[2020.12.25-20.19.43:323][384]AssetCheck: New page: Asset Save: DrawCall_0090
+[2020.12.25-20.19.43:323][384]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0090.DrawCall_0090
+[2020.12.25-20.19.43:884][407]LogSlate: Window 'DrawCall_0090' being destroyed
+[2020.12.25-20.19.43:955][407]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.43:955][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.44:973][443]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0089.DrawCall_0089
+[2020.12.25-20.19.45:300][443]LogWorld: UWorld::CleanupWorld for World_136, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.45:300][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.48:471][557]LogSlate: Window 'DrawCall_0089' being destroyed
+[2020.12.25-20.19.48:544][557]LogWorld: UWorld::CleanupWorld for World_137, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.48:544][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.49:738][605]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0090.DrawCall_0090
+[2020.12.25-20.19.50:051][605]LogWorld: UWorld::CleanupWorld for World_138, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.50:051][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.55:274][807]LogSlate: Window 'DrawCall_0090' being destroyed
+[2020.12.25-20.19.55:346][807]LogWorld: UWorld::CleanupWorld for World_139, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.55:346][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.19.56:494][852]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0091.DrawCall_0091
+[2020.12.25-20.19.56:803][852]LogWorld: UWorld::CleanupWorld for World_140, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.19.56:803][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.01:150][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0091" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0091.uasset" SILENT=true
+[2020.12.25-20.20.01:214][  0]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00910DBB702F4C5BDD55DCA5C1975FFB936B.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0091.uasset'
+[2020.12.25-20.20.01:252][  0]AssetCheck: New page: Asset Save: DrawCall_0091
+[2020.12.25-20.20.01:252][  0]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0091.DrawCall_0091
+[2020.12.25-20.20.01:751][ 21]LogSlate: Window 'DrawCall_0091' being destroyed
+[2020.12.25-20.20.01:825][ 21]LogWorld: UWorld::CleanupWorld for World_141, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.01:825][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.03:415][ 87]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0092.DrawCall_0092
+[2020.12.25-20.20.03:779][ 87]LogWorld: UWorld::CleanupWorld for World_142, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.03:779][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.07:664][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0092" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0092.uasset" SILENT=true
+[2020.12.25-20.20.07:724][221]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0092E59DBFDA4F48C66973148B98B6DDFEC6.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0092.uasset'
+[2020.12.25-20.20.07:754][221]AssetCheck: New page: Asset Save: DrawCall_0092
+[2020.12.25-20.20.07:754][221]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0092.DrawCall_0092
+[2020.12.25-20.20.08:254][241]LogSlate: Window 'DrawCall_0092' being destroyed
+[2020.12.25-20.20.08:323][241]LogWorld: UWorld::CleanupWorld for World_143, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.08:323][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.10:647][335]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0093.DrawCall_0093
+[2020.12.25-20.20.11:008][335]LogWorld: UWorld::CleanupWorld for World_144, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.11:008][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.14:774][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0093" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0093.uasset" SILENT=true
+[2020.12.25-20.20.14:837][456]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00933A2D80654A04B4AA74D11EB54664E68D.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0093.uasset'
+[2020.12.25-20.20.14:870][456]AssetCheck: New page: Asset Save: DrawCall_0093
+[2020.12.25-20.20.14:870][456]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0093.DrawCall_0093
+[2020.12.25-20.20.15:301][474]LogSlate: Window 'DrawCall_0093' being destroyed
+[2020.12.25-20.20.15:369][474]LogWorld: UWorld::CleanupWorld for World_145, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.15:369][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.16:385][512]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0094.DrawCall_0094
+[2020.12.25-20.20.16:730][512]LogWorld: UWorld::CleanupWorld for World_146, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.16:730][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.20:833][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0094" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0094.uasset" SILENT=true
+[2020.12.25-20.20.20:904][657]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_009490BB3C4A498BA450AC5E9A91B0293C08.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0094.uasset'
+[2020.12.25-20.20.20:941][657]AssetCheck: New page: Asset Save: DrawCall_0094
+[2020.12.25-20.20.20:941][657]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0094.DrawCall_0094
+[2020.12.25-20.20.21:438][677]LogSlate: Window 'DrawCall_0094' being destroyed
+[2020.12.25-20.20.21:510][677]LogWorld: UWorld::CleanupWorld for World_147, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.21:510][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.23:251][750]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0095.DrawCall_0095
+[2020.12.25-20.20.23:577][750]LogWorld: UWorld::CleanupWorld for World_148, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.23:577][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.29:273][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0095" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0095.uasset" SILENT=true
+[2020.12.25-20.20.29:338][942]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0095D956A9E04E54D98E9F5909885BFBA7B3.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0095.uasset'
+[2020.12.25-20.20.29:376][942]AssetCheck: New page: Asset Save: DrawCall_0095
+[2020.12.25-20.20.29:376][942]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0095.DrawCall_0095
+[2020.12.25-20.20.29:852][962]LogSlate: Window 'DrawCall_0095' being destroyed
+[2020.12.25-20.20.29:927][962]LogWorld: UWorld::CleanupWorld for World_149, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.29:927][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.31:102][  8]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0096.DrawCall_0096
+[2020.12.25-20.20.31:434][  8]LogWorld: UWorld::CleanupWorld for World_150, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.31:435][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.34:694][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0096" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0096.uasset" SILENT=true
+[2020.12.25-20.20.34:767][106]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0096E1DF85F84E81BBC245ABADAFE6703847.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0096.uasset'
+[2020.12.25-20.20.34:792][106]AssetCheck: New page: Asset Save: DrawCall_0096
+[2020.12.25-20.20.34:793][106]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0096.DrawCall_0096
+[2020.12.25-20.20.35:337][129]LogSlate: Window 'DrawCall_0096' being destroyed
+[2020.12.25-20.20.35:399][129]LogWorld: UWorld::CleanupWorld for World_151, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.35:399][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.36:410][167]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0097.DrawCall_0097
+[2020.12.25-20.20.36:735][167]LogWorld: UWorld::CleanupWorld for World_152, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.36:735][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.40:295][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0097" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0097.uasset" SILENT=true
+[2020.12.25-20.20.40:363][289]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0097BC50C64F40E1875A1110B3A7CE4A01BA.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0097.uasset'
+[2020.12.25-20.20.40:387][289]AssetCheck: New page: Asset Save: DrawCall_0097
+[2020.12.25-20.20.40:387][289]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0097.DrawCall_0097
+[2020.12.25-20.20.41:100][315]LogSlate: Window 'DrawCall_0097' being destroyed
+[2020.12.25-20.20.41:168][315]LogWorld: UWorld::CleanupWorld for World_153, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.41:168][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.42:240][352]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0098.DrawCall_0098
+[2020.12.25-20.20.42:620][352]LogWorld: UWorld::CleanupWorld for World_154, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.42:620][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.46:447][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0098" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0098.uasset" SILENT=true
+[2020.12.25-20.20.46:525][476]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_00984CD1DA984096009A0AA2CBABE873B7AD.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0098.uasset'
+[2020.12.25-20.20.46:554][476]AssetCheck: New page: Asset Save: DrawCall_0098
+[2020.12.25-20.20.46:554][476]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0098.DrawCall_0098
+[2020.12.25-20.20.46:947][492]LogSlate: Window 'DrawCall_0098' being destroyed
+[2020.12.25-20.20.47:015][492]LogWorld: UWorld::CleanupWorld for World_155, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.47:015][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.48:198][535]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0099.DrawCall_0099
+[2020.12.25-20.20.48:539][535]LogWorld: UWorld::CleanupWorld for World_156, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.48:539][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.53:057][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0099" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0099.uasset" SILENT=true
+[2020.12.25-20.20.53:149][685]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0099009AF08042A075C8B3BF9DB4567ED9C8.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0099.uasset'
+[2020.12.25-20.20.53:175][685]AssetCheck: New page: Asset Save: DrawCall_0099
+[2020.12.25-20.20.53:175][685]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0099.DrawCall_0099
+[2020.12.25-20.20.53:570][701]LogSlate: Window 'DrawCall_0099' being destroyed
+[2020.12.25-20.20.53:629][701]LogWorld: UWorld::CleanupWorld for World_157, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.53:629][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.20.54:882][744]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0100.DrawCall_0100
+[2020.12.25-20.20.55:244][744]LogWorld: UWorld::CleanupWorld for World_158, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.20.55:244][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.02:011][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0100" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0100.uasset" SILENT=true
+[2020.12.25-20.21.02:071][990]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_01000A9E7084431222EE69248CB2153D72D5.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0100.uasset'
+[2020.12.25-20.21.02:102][990]AssetCheck: New page: Asset Save: DrawCall_0100
+[2020.12.25-20.21.02:102][990]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0100.DrawCall_0100
+[2020.12.25-20.21.03:023][ 30]LogSlate: Window 'DrawCall_0100' being destroyed
+[2020.12.25-20.21.03:089][ 30]LogWorld: UWorld::CleanupWorld for World_159, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.03:089][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.04:035][ 63]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0101.DrawCall_0101
+[2020.12.25-20.21.04:363][ 63]LogWorld: UWorld::CleanupWorld for World_160, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.04:363][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.10:680][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0101" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0101.uasset" SILENT=true
+[2020.12.25-20.21.10:743][304]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0101740A95174E85D3730F89FDBCE69266D2.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0101.uasset'
+[2020.12.25-20.21.10:775][304]AssetCheck: New page: Asset Save: DrawCall_0101
+[2020.12.25-20.21.10:775][304]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0101.DrawCall_0101
+[2020.12.25-20.21.11:226][322]LogSlate: Window 'DrawCall_0101' being destroyed
+[2020.12.25-20.21.11:303][322]LogWorld: UWorld::CleanupWorld for World_161, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.11:304][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.12:470][365]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0102.DrawCall_0102
+[2020.12.25-20.21.12:829][365]LogWorld: UWorld::CleanupWorld for World_162, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.12:829][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.16:417][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0102" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0102.uasset" SILENT=true
+[2020.12.25-20.21.16:485][471]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_0102FEDB99F1470B78E4CEB5D08E6CD39402.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0102.uasset'
+[2020.12.25-20.21.16:517][471]AssetCheck: New page: Asset Save: DrawCall_0102
+[2020.12.25-20.21.16:517][471]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0102.DrawCall_0102
+[2020.12.25-20.21.17:026][491]LogSlate: Window 'DrawCall_0102' being destroyed
+[2020.12.25-20.21.17:092][491]LogWorld: UWorld::CleanupWorld for World_163, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.17:092][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.18:676][554]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0103.DrawCall_0103
+[2020.12.25-20.21.19:020][554]LogWorld: UWorld::CleanupWorld for World_164, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.19:020][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.22:436][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0103" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0103.uasset" SILENT=true
+[2020.12.25-20.21.22:513][651]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_010372E79078493ED74A7CA5D28712829215.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0103.uasset'
+[2020.12.25-20.21.22:544][651]AssetCheck: New page: Asset Save: DrawCall_0103
+[2020.12.25-20.21.22:544][651]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0103.DrawCall_0103
+[2020.12.25-20.21.23:061][671]LogSlate: Window 'DrawCall_0103' being destroyed
+[2020.12.25-20.21.23:135][671]LogWorld: UWorld::CleanupWorld for World_165, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.23:135][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.24:126][706]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0104.DrawCall_0104
+[2020.12.25-20.21.24:520][706]LogWorld: UWorld::CleanupWorld for World_166, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.24:520][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.28:609][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pubg/Geometries/DrawCall_0104" FILE="../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0104.uasset" SILENT=true
+[2020.12.25-20.21.28:703][825]LogSavePackage: Moving '../../../../../../Users/roman/UnrealProjects/Collapse/Saved/DrawCall_010494D97BD742654CE2780B8D8C9E220868.tmp' to '../../../../../../Users/roman/UnrealProjects/Collapse/Content/Maps/Pubg/Geometries/DrawCall_0104.uasset'
+[2020.12.25-20.21.28:735][825]AssetCheck: New page: Asset Save: DrawCall_0104
+[2020.12.25-20.21.28:735][825]LogContentValidation: Display: Validating StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0104.DrawCall_0104
+[2020.12.25-20.21.29:085][840]LogSlate: Window 'DrawCall_0104' being destroyed
+[2020.12.25-20.21.29:155][840]LogWorld: UWorld::CleanupWorld for World_167, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.29:155][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.30:512][889]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Maps/Pubg/Geometries/DrawCall_0105.DrawCall_0105
+[2020.12.25-20.21.30:839][889]LogWorld: UWorld::CleanupWorld for World_168, bSessionEnded=true, bCleanupResources=true
+[2020.12.25-20.21.30:840][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.25-20.21.31:133][889]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:290 
+ with error E_OUTOFMEMORY, 
+ Size=648x134 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)
+[2020.12.25-20.21.32:537][889]LogConsoleResponse:     65 = 10069 KB (2D 1432x900 PF_FloatRGBA RT UAV) LightAccumulation
+[2020.12.25-20.21.32:537][889]LogConsoleResponse:     66 = 10069 KB (2D 1432x900 PF_FloatRGBA UAV) TemporalAA
+[2020.12.25-20.21.32:537][889]LogConsoleResponse:     67 = 6293 KB (2D 1432x900 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2020.12.25-20.21.32:537][889]LogConsoleResponse:     72 = 3147 KB (2D 716x450 PF_DepthStencil) SmallDepthZ
+[2020.12.25-20.21.32:537][889]LogConsoleResponse:     48 = 2518 KB (2D 1432x450 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     70 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     68 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     46 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     69 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     45 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     47 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     71 = 1259 KB (2D 1432x900 PF_G8 RT UAV) ScreenSpaceAO
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     56 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     57 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     24 = 1024 KB (Cube[1] 128 PF_FloatRGBA) ReflectionEnvs
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     55 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaJ
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     54 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaSM
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     53 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaSR
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     52 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereInscatter
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     64 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     49 = 128 KB (2D 256x64 PF_FloatRGBA RT) AtmosphereTransmittance
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     60 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     58 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     61 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     43 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     22 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     18 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     23 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     19 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     51 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereDeltaE
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     50 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereIrradiance
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     20 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     44 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     59 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2020.12.25-20.21.32:538][889]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:     21 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:     63 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2020.12.25-20.21.32:539][889]LogConsoleResponse:     17 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2020.12.25-20.21.32:539][889]LogConsoleResponse: 
+[2020.12.25-20.21.32:539][889]LogConsoleResponse: Pool: 52/52 MB (referenced/allocated)
+[2020.12.25-20.21.32:539][889]Cmd: rhi.DumpMemory
+[2020.12.25-20.21.32:598][889]RHI resource memory (not tracked by our allocator)
+[2020.12.25-20.21.32:598][889]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:598][889]        17988356  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:598][889]         6334980  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:598][889]         6618464  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:598][889]        76611300  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:598][889]          548940  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:598][889]      4348942025  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:598][889]       111861216  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:598][889]        11212858  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:598][889]        56399780  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.12.25-20.21.32:599][889]4423.853MB total
+[2020.12.25-20.21.32:600][889]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.12.25-20.21.32:601][889]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.12.25-20.21.32:623][889]Log file closed, 12/25/20 23:21:32
